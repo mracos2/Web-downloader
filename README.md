@@ -17,5 +17,5 @@ cmake --build .
 ## Использование
 
 ```bash
-./url_downloader <url_file> <output_dir> <concurrency>
+./web-downloader <url_file> <output_dir> <concurrency>
 ```
